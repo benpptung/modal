@@ -1,8 +1,8 @@
 {
   "name": "modal",
   "description": "react modal component",
-  "author": "Ben P.P. Tung",
   "version": "0.1.0",
+  "author": "Ben P.P. Tung",
   "browserify": {
     "transform": [
       "transforms",
@@ -10,7 +10,7 @@
     ]
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/benpptung/modal/issues"
   },
   "dependencies": {
     "component-emitter": "^1.2.1",
@@ -27,9 +27,13 @@
   "devDependencies": {
     "appstackr": "^0.3.18"
   },
-  "homepage": "",
-  "keywords": [],
-  "license": "UNLICENSED",
+  "homepage": "https://github.com/benpptung/modal",
+  "keywords": [
+    "component",
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
