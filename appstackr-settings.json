@@ -1,0 +1,6 @@
+{
+  "public": "examples",
+	"bsync": {
+		"ghostMode": false
+	}
+}

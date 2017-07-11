@@ -1,0 +1,42 @@
+{
+  "name": "modal",
+  "description": "react modal component",
+  "author": "Ben P.P. Tung",
+  "version": "0.1.0",
+  "browserify": {
+    "transform": [
+      "transforms",
+      "envify"
+    ]
+  },
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "component-emitter": "^1.2.1",
+    "envify": "^3.4.0",
+    "inherits": "^2.0.3",
+    "inject-css": "^0.1.1",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-style-prefix": "^1.0.1",
+    "react-tap-event-plugin": "^2.0.1",
+    "transforms": "^0.1.4"
+  },
+  "devDependencies": {
+    "appstackr": "^0.3.18"
+  },
+  "homepage": "",
+  "keywords": [],
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "appstack": "appstack",
+    "bsync": "appwatch -b"
+  }
+}
