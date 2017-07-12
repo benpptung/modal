@@ -22,6 +22,7 @@
     "react-dom": "^15.5.4",
     "react-style-prefix": "^1.0.1",
     "react-tap-event-plugin": "^2.0.1",
+    "react-util": "github:benpptung/react-util",
     "transforms": "^0.1.4"
   },
   "devDependencies": {
